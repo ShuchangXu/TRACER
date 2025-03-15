@@ -125,13 +125,14 @@ def saliency_detect(video):
         "--dataset", os.path.join(f"{video}_pairs"), 
         "--arch", "7",
         "--img_size", "640",
-        "--save_map", "True"
+        "--save_map", "True",
+        "--batch_size", "1",
     ]
     subprocess.run(command)
 
 def saliency_stitch(video):
     face_dir = os.path.join("data", f"{video}_faces")
-    pair_dir = os.path.join("data", f"{video}_pairs")
+    pair_dir = os.path.join("mask", f"{video}_pairs")
     output_dir = os.path.join("data", f"{video}_saliency")
     os.makedirs(output_dir, exist_ok=True)
     
