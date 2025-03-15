@@ -14,9 +14,8 @@ PyWavelets>=1.1.1
 PyYAML>=5.4.1
 scikit-image>=0.18.3
 scikit-learn>=1.0.1
-scipy?=1.10.0
+scipy>=1.10.0
 six>=1.16.0
-sklearn>=0.0
 threadpoolctl>=2.2.0
 tifffile>=2021.8.30
 torch
