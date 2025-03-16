@@ -8,7 +8,6 @@ This paper was accepted at AAAI 2022 SA poster session. [[pdf]](https://arxiv.or
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tracer-extreme-attention-guided-salient/salient-object-detection-on-ecssd)](https://paperswithcode.com/sota/salient-object-detection-on-ecssd?p=tracer-extreme-attention-guided-salient)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tracer-extreme-attention-guided-salient/salient-object-detection-on-pascal-s)](https://paperswithcode.com/sota/salient-object-detection-on-pascal-s?p=tracer-extreme-attention-guided-salient) 
 
-![alt text](img/Poster.png)
 
 ## Updates
 [09/06/2022] Demo has been released on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZGbxozNHsvnOiywYZARGXr_CvvE6jIFh?usp=sharing/) [Try it now!](https://colab.research.google.com/drive/1ZGbxozNHsvnOiywYZARGXr_CvvE6jIFh?usp=sharing/)  
